@@ -31,7 +31,7 @@ A feature-rich Todo application built with React, Redux Toolkit, and styled with
 
 1. Clone the repository:
    ```
- https://github.com/Jazze7/todo-app-visics-frontend.git
+   https://github.com/Jazze7/todo-app-visics-frontend.git
    cd todo-app-visics-frontend
    ```
 
